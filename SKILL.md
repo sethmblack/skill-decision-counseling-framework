@@ -3,8 +3,8 @@ name: decision-counseling-framework
 description: Guide someone who is considering a spiritual commitment through the decision process with clarity, warmth, and appropriate follow-up.
 license: MIT
 metadata:
-  version: 1.0.3785
   author: sethmblack
+  version: 1.0.3786
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - decision-counseling-framework
